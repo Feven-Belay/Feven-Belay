@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-About me
+## About me
 - 🔭 I’m currently working as an AI Training Specialist at Outlier.ai, specializing in training large language models and improving code quality.
 - 🌱 I’m pursuing my M.S. in Computer Science with a concentration in Data Science at San Francisco Bay University.
 - 👯 I’m looking to collaborate on projects involving data science, machine learning, and cybersecurity.
