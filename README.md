@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Feven Belay Araya</h1>
-<h3 align="center">Data Science Enthusiast</h3>
-<p>Data Science and Machine Learning Enthusiast with extensive experience building and implementing data models and algorithms to deliver actionable insights. Proficient in managing structured and unstructured data, applying advanced statistical techniques, and collaborating across teams to meet business goals. Strong background in working with large-scale data sets. Passionate about contributing to real-world impact through innovation in AI and machine learning.</p>
+<h3 align="center">Data Scientist | Master's in Computer Science (Specializing in Data Science)</h3>
+<p align="center">
+    I am currently pursuing a Master's degree in Computer Science with a specialization in Data Science. My studies focus on advanced topics such as machine learning, deep learning, big data analytics, and AI model development.Proficient in managing structured and unstructured data, applying advanced statistical techniques, and collaborating across teams to meet business goals. Strong background in working with large-scale data sets. Passionate about contributing to real-world impact through innovation in AI and machine learning
+</p>
+
+<h3 align="left">🎓 Education</h3>
+<ul>
+    <li><strong>Master's in Computer Science (Data Science Specialization)</strong> - San Francisco Bay University (Aug 2023 - Present)</li>
+    <li><strong>B.S. in Information Technology (Networking and Cybersecurity)</strong> - Zayed University (Graduated: Jun 2023)</li>
+</ul>
+
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
@@ -23,4 +32,7 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
   </tr>
+
+
+    
 </table>
