@@ -1,12 +1,3 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="30"/> 
-  Hi 👋, I'm Feven Belay Araya
-  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="30"/>
-</h1>
-<h3 align="center">
-  Data Scientist | Master's in Computer Science (Specializing in Data Science)
-</h3>
-
 <h1 align="center">Hi 👋, I'm Feven Belay Araya</h1>
 <h3 align="center">Data Scientist | Master's in Computer Science (Specializing in Data Science)</h3>
 <p align="center">
