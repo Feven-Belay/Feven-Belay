@@ -1,36 +1,6 @@
-## Hi there 👋
-
-## About me
-- 🔭 I’m currently working as an AI Training Specialist at Outlier.ai, specializing in training large language models and improving code quality.
-- 🌱 I’m pursuing my M.S. in Computer Science with a concentration in Data Science at San Francisco Bay University.
-- 👯 I’m looking to collaborate on projects involving data science, machine learning, and cybersecurity.
-- 🤔 I’m looking for help with advanced concepts in big data analytics and cloud infrastructures.
-- 💬 Ask me about my research in phishing detection and credit card fraud detection using machine learning.
-- 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/feven-araya-7041841b0)
-- ⚡ Fun fact: I have conducted extensive research on phishing detection using machine learning, achieving significant accuracy improvements in model performance.
-
-Feel free to check out my publications and projects on [IEEE](https://ieeexplore.ieee.org/abstract/document/10361457) and GitHub.
-
-
-
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21165
-Fork on GitHub
-6599
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Feven Belay Araya</h1>
 <h3 align="center">Data Science Enthusiast</h3>
+<p>Data Science and Machine Learning Enthusiast with extensive experience building and implementing data models and algorithms to deliver actionable insights. Proficient in managing structured and unstructured data, applying advanced statistical techniques, and collaborating across teams to meet business goals. Strong background in working with large-scale data sets. Passionate about contributing to real-world impact through innovation in AI and machine learning.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
