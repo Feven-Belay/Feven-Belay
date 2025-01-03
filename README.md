@@ -11,9 +11,12 @@ Experienced Data Scientist with over five years of experience and a master’s d
     <li><strong>B.S. in Information Technology (Networking and Cybersecurity)</strong> - Zayed University (Graduated: Jun 2023)</li>
 </ul>
 
-<h3 align="left">🎓 Publication </h3>
-Phishing Detection Using Deep Learning and Machine Learning Algorithms
-Credit Card Fraud Detection Using Symbolic Aggregate Approximation
+<h3 align="left"> 🔖 </h3>
+<ul>
+    <li>Phishing Detection Using Deep Learning and Machine Learning Algorithms</li>
+    <li> Credit Card Fraud Detection Using Symbolic Aggregate Approximation</li>
+</ul>
+
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
