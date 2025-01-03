@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Feven Belay Araya</h1>
-<h3 align="center">Data Scientist | Machine Learning Enthusiast
+<h3 align="center">Data Scientist | Data Analyst | Machine Learning Enthusiast
 </h3>
 <p>
 Experienced Data Scientist with over five years of experience and a master’s degree in computer science from San Francisco Bay University, specializing in Machine Learning and Artificial Intelligence. Highly skilled in structuring and optimizing large datasets for AI model development. Proficient in designing, developing, and evaluating advanced machine learning systems, including fine-tuning Large Language Models (LLMs) and implementing complex retrieval algorithms. Demonstrated leadership in projects that enhance operational efficiencies and drive innovation in technical and analytical fields.
@@ -11,13 +11,15 @@ Experienced Data Scientist with over five years of experience and a master’s d
     <li><strong>B.S. in Information Technology (Networking and Cybersecurity)</strong> - Zayed University (Graduated: Jun 2023)</li>
 </ul>
 
+<h3 align="left">🎓 Publication </h3>
+Phishing Detection Using Deep Learning and Machine Learning Algorithms
+Credit Card Fraud Detection Using Symbolic Aggregate Approximation
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/feven-araya-7041841b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
-<h3 align="left">🌱 Fun Facts</h3>
-<p>I enjoy exploring the intersection of art and machine learning, particularly in generative art. In my free time, you'll often find me experimenting with AI tools to create interactive experiences!</p>
+
 
 
 <h3 align="left">🛠 Languages and Tools</h3>
