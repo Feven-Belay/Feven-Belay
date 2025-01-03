@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Feven Belay Araya</h1>
 <h3 align="center">Data Scientist | Master's in Computer Science (Specializing in Data Science)</h3>
 <p align="center">
-    I am currently pursuing a Master's degree in Computer Science with a specialization in Data Science. My studies focus on advanced topics such as machine learning, deep learning, big data analytics, and AI model development.Proficient in managing structured and unstructured data, applying advanced statistical techniques, and collaborating across teams to meet business goals. Strong background in working with large-scale data sets. Passionate about contributing to real-world impact through innovation in AI and machine learning
-</p>
+Experienced Data Scientist with over five years of experience and a master’s degree in computer science from San Francisco Bay University, specializing in Machine Learning and Artificial Intelligence. Highly skilled in structuring and optimizing large datasets for AI model development. Proficient in designing, developing, and evaluating advanced machine learning systems, including fine-tuning Large Language Models (LLMs) and implementing complex retrieval algorithms. Demonstrated leadership in projects that enhance operational efficiencies and drive innovation in technical and analytical fields![image](https://github.com/user-attachments/assets/b9292117-23a7-4361-9200-12b018696972)
+
 
 <h3 align="left">🎓 Education</h3>
 <ul>
