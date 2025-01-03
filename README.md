@@ -7,11 +7,11 @@ Experienced Data Scientist with over five years of experience and a master’s d
 
 <h3 align="left">🎓 Education</h3>
 <ul>
-    <li><strong>Master's in Computer Science (Data Science Specialization)</strong> - San Francisco Bay University (Aug 2023 - Present)</li>
+    <li><strong>Master's in Computer Science (Data Science Specialization)</strong> - San Francisco Bay University (Graduated: Dec 2024 )</li>
     <li><strong>B.S. in Information Technology (Networking and Cybersecurity)</strong> - Zayed University (Graduated: Jun 2023)</li>
 </ul>
 
-<h3 align="left"> 🔖 </h3>
+<h3 align="left"> 🔖 Publication </h3>
 <ul>
     <li>Phishing Detection Using Deep Learning and Machine Learning Algorithms</li>
     <li> Credit Card Fraud Detection Using Symbolic Aggregate Approximation</li>
