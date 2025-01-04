@@ -19,8 +19,9 @@ Experienced Data Scientist with over five years of experience and a master’s d
 
 
 <h3 align="left">📫 Connect with me:</h3>
+Feel free to explore my work on GitHub or reach out via LinkedIn!
 <p align="left">
-    <a href="https://www.linkedin.com/in/feven-araya-7041841b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/feven-araya-7041841b0/" target="blank"></a>
         <a href="https://github.com/Feven-Belay?tab=repositories" target="blank"><img align="center" src="https://www.bing.com/images/search?view=detailV2&ccid=npYiKJGg&id=DC9487951C90229807CDFA29A9EE4779EE8D3250&thid=OIP.npYiKJGgk7gHCAydkFG_qwHaHa&mediaurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F025%2F270%2F403%2Foriginal%2Fgithub-logo-icon-free-vector.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.9e96222891a093b807080c9d9051bfab%3Frik%3DUDKN7nlH7qkp%252bg%26pid%3DImgRaw%26r%3D0&exph=1920&expw=1920&q=github+idon&simid=608050761715514326&FORM=IRPRST&ck=2CAF67FA1A9DE938874303BD0465F064&selectedIndex=9&itb=0&cw=1296&ch=637&ajaxhist=0&ajaxserp=0" alt="GitHub" height="30" width="40" /></a>
 </p>
 
